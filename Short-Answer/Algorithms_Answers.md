@@ -9,7 +9,7 @@ b)
 Polynomial time - O(n^2) there are two loops that are fully reliant on n, it would be O(n squared). Again, as n gets bigger, so would the run time.
 
 c)
-Linear time -O(n) the loop runs n times, which is one.
+Linear time O(n) the loop runs n times, which is one.
 
 ## Exercise II
 
